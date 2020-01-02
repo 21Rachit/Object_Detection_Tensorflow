@@ -1,5 +1,5 @@
 # Object_Detection_Tensorflow
-This custom object detector has been created with the help of Tensorflow Object Detection API. It has been trained to detect just 3 categories of objects
+This custom object detector has been created with the help of Tensorflow Object Detection API. It has been trained to detect 3 categories of objects
 
 •	Person
 •	Bird
